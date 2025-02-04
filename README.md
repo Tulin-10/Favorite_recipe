@@ -2,7 +2,7 @@
 
 [Dunya Mutfagindan](./Cauliflower_with_Oranges.md)  🧄 🧀
 
-<img src="./images/Cauliflower_with_Oranges.JPEG" alt="Cauliflower with Oranges" width="350"/>  
+<img src="./images/Cauliflower_with_Oranges.jpeg" alt="Cauliflower with Oranges" width="350"/>  
 
 
 ---
