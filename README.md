@@ -7,7 +7,7 @@
 
 ---
 
-[Tatlim Künefe](./künefe_tarifi.md) 
+[Brownie Batter Chia Pudding](./künefe_tarifi.md) 
 
 <img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
 
