@@ -9,7 +9,7 @@
 
 [Brownie Batter Chia Pudding](./künefe_tarifi.md) 
 
-<img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
+<img src="./images/Brownie_Batter_Chia_Pudding.png" alt="Brownie Batter Chia Pudding" width="350"/>  
 
 ### Afiyet olsun! 
 </br>
