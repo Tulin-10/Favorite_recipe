@@ -1,10 +1,8 @@
 # Favorite Recipe
-Git class practice
-# Favori Tariflerim
 
-[Almanya Mutfagindan Langos](./langos_tarifi.md)  🧄 🧀
+[Dunya Mutfagindan](./Cauliflower_with_Orange.md)  🧄 🧀
 
-<img src="./images/langos.JPG" alt="Langos" width="350"/>  
+<img src="./images/Cauliflower with Orange.JPG" alt="Cauliflower with Orange" width="350"/>  
 
 
 ---
