@@ -2,7 +2,7 @@
 
 [Dunya Mutfagindan](./Cauliflower_with_Orange.md)  🧄 🧀
 
-<img src="./images/Cauliflower with Orange.JPG" alt="Cauliflower with Orange" width="350"/>  
+<img src="./images/Cauliflower_with_Orange.JPEG" alt="Cauliflower with Orange" width="350"/>  
 
 
 ---
@@ -11,7 +11,7 @@
 
 <img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
 
-### ☕ Afiyet olsun! Yanında bir kahve alır mısınız? 
+### ☕ Afiyet olsun! 
 </br>
 </br>
 
