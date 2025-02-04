@@ -16,7 +16,7 @@
 - 2 tsp Cumin, ground
 - 1/2 cup Water
 
- ## **Direction**
+ ## **Directions**
 
 - Place the cauliflower, onions, and potatoes in a large bowl, and sprinkle with the turmeric, tossing to coat.
 - Heat the oil in a large heavy-bottomed nonreactive skillet over high heat. Reduce the heat to medium, and add the vegetables. Stir-fry for 3 to 5 minutes, or until golden and lightly browned. Transfer the vegetables to a bowl, and set aside.
