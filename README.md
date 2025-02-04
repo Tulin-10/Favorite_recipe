@@ -1,8 +1,8 @@
 # Favorite Recipe
 
-[Dunya Mutfagindan](./Cauliflower_with_Orange.md)  🧄 🧀
+[Dunya Mutfagindan](./Cauliflower_with_Oranges.md)  🧄 🧀
 
-<img src="./images/Cauliflower_with_Orange.JPEG" alt="Cauliflower with Orange" width="350"/>  
+<img src="./images/Cauliflower_with_Oranges.JPEG" alt="Cauliflower with Oranges" width="350"/>  
 
 
 ---
