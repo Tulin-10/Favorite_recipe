@@ -16,7 +16,7 @@
 - 2 tsp Cumin, ground
 - 1/2 cup Water
 
-- ## **Direction**
+ ## **Direction**
 
 - Place the cauliflower, onions, and potatoes in a large bowl, and sprinkle with the turmeric, tossing to coat.
 - Heat the oil in a large heavy-bottomed nonreactive skillet over high heat. Reduce the heat to medium, and add the vegetables. Stir-fry for 3 to 5 minutes, or until golden and lightly browned. Transfer the vegetables to a bowl, and set aside.
@@ -24,4 +24,4 @@
 - Add the reserved vegetables to the pan, then add the oranges and sugar. Add the water to deglaze the pan. Cover and reduce the heat to a gentle simmer. Simmer for 15 minutes, or until the vegetables are cooked but are still slightly firm.
 - Add the chilies, if using, for the last 5 minutes of cooking time. Serve with rice.
   
-- Afiyet olsun!
+- Afiyet olsun!🍴
