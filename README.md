@@ -1,17 +1,17 @@
 # Favorite Recipe
 
-[Dunya Mutfagindan](./Cauliflower_with_Oranges.md)  🧄 🧀
+[Dunya Mutfagindan Cauliflower with Oranges](./Cauliflower_with_Oranges.md)
 
 <img src="./images/Cauliflower_with_Oranges.jpeg" alt="Cauliflower with Oranges" width="350"/>  
 
 
 ---
 
-[Favori Tatlim Künefe](./künefe_tarifi.md) 🍯 🌰
+[Tatlim Künefe](./künefe_tarifi.md) 
 
 <img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
 
-### ☕ Afiyet olsun! 
+### Afiyet olsun! 
 </br>
 </br>
 
