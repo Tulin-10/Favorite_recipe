@@ -1,5 +1,6 @@
-# Favorite Recipe
+# FAVORITE RECIPE
 
+## Food
 [Dunya Mutfagindan Cauliflower with Oranges](./Cauliflower_with_Oranges.md)
 
 <img src="./images/Cauliflower_with_Oranges.jpeg" alt="Cauliflower with Oranges" width="350"/>  
@@ -7,6 +8,7 @@
 
 ---
 
+## Dessert
 [Brownie Batter Chia Pudding](./künefe_tarifi.md) 
 
 <img src="./images/Brownie_Batter_Chia_Pudding.png" alt="Brownie Batter Chia Pudding" width="350"/>  
