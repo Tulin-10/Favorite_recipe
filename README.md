@@ -1,2 +1,2 @@
-# Favorite_recipe
+# Favorite Recipe
 Git class practice
