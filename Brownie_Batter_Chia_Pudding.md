@@ -1,6 +1,6 @@
 # Brownie Batter Chia Pudding
 
-## *Ingredients:
+## Ingredients:
 
 - 1 cup canned full-fat coconut milk, plus more as needed
 - ½ cup water
@@ -13,10 +13,10 @@
 - Granola, toasted coconut flakes, strawberries, and/or raspberries, for serving (optional)
 
 
-Direction:
+## Direction:
 
--In a medium-sized jar or bowl, combine the coconut milk, water, cacao, 1 tablespoon of the maple syrup, the vanilla, chaga (if using), and salt. Whisk well. Stir in the chia seeds. Taste and add the remaining 1 tablespoon maple syrup if necessary.
--Cover and refrigerate for at least 3 hours or overnight, until the chia seeds have absorbed the liquid and the mixture has a pudding-like consistency. (if the mixture is thicker than desired, stir in a splash of water or milk.)
--Serve with any or all of the suggested toppings.
+- In a medium-sized jar or bowl, combine the coconut milk, water, cacao, 1 tablespoon of the maple syrup, the vanilla, chaga (if using), and salt. Whisk well. Stir in the chia seeds. Taste and add the remaining 1 tablespoon maple syrup if necessary.
+- Cover and refrigerate for at least 3 hours or overnight, until the chia seeds have absorbed the liquid and the mixture has a pudding-like consistency. (if the mixture is thicker than desired, stir in a splash of water or milk.)
+- Serve with any or all of the suggested toppings.
 
 ![Brownie Batter Chia Pudding](./images/Brownie_Batter_Chia_Pudding.png)
