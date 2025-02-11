@@ -24,4 +24,8 @@
 - Add the reserved vegetables to the pan, then add the oranges and sugar. Add the water to deglaze the pan. Cover and reduce the heat to a gentle simmer. Simmer for 15 minutes, or until the vegetables are cooked but are still slightly firm.
 - Add the chilies, if using, for the last 5 minutes of cooking time. Serve with rice.
   
-- Afiyet olsun!🍴
+Afiyet olsun!🍴
+  </br>
+  <br/>
+  
+  ![](./images/Cauliflower_with_Oranges.jpeg/ "Orange")
