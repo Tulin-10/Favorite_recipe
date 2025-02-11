@@ -1,14 +1,16 @@
-Ingredients:
+# Brownie Batter Chia Pudding
 
-1 cup canned full-fat coconut milk, plus more as needed
-½ cup water
-1 tablespoon raw cacao powder
-1 to 2 tablespoons maple syrup
-¾ teaspoon vanilla extract
-¾ teaspoon chaga powder (optional)
-Pinch of salt
-3 tablespoons chia seeds
-Granola, toasted coconut flakes, strawberries, and/or raspberries, for serving (optional)
+## *Ingredients:
+
+- 1 cup canned full-fat coconut milk, plus more as needed
+- ½ cup water
+- 1 tablespoon raw cacao powder
+- 1 to 2 tablespoons maple syrup
+- ¾ teaspoon vanilla extract
+- ¾ teaspoon chaga powder (optional)
+- Pinch of salt
+- 3 tablespoons chia seeds
+- Granola, toasted coconut flakes, strawberries, and/or raspberries, for serving (optional)
 
 
 Direction:
