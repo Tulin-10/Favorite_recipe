@@ -21,4 +21,6 @@
 <br/>
 
 ![Brownie Batter Chia Pudding](./images/Brownie_Batter_Chia_Pudding.png)
-<img src="./images/Brownie_Batter_Chia_Pudding.png" alt-"Pudding" width-"350"/>
+<div align="center">
+<img src="./images/Brownie_Batter_Chia_Pudding.png" alt="Pudding" width="350"/>
+</div>
